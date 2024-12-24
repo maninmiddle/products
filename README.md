@@ -1,6 +1,17 @@
 # Products Flutter App 🛒
 A Flutter mobile app that allows users to view a list of products and add products to the cart. 
+---
+## Stack
+- [fpdart](https://pub.dev/packages/fpdart)
+- [http](https://pub.dev/packages/http)
+- [get_it](https://pub.dev/packages/get_it)
+- [flutter-bloc](https://pub.dev/packages/flutter_bloc)
+- [provider](https://pub.dev/packages/provider)
+- [go_router](https://pub.dev/packages/go_router)
+- [sqflite](https://pub.dev/packages/sqflite)
+- [path](https://pub.dev/packages/path)
 
+---
 # Screenshots
 <table>
   <tr>
@@ -14,7 +25,7 @@ A Flutter mobile app that allows users to view a list of products and add produc
     <td valign="top"><img src="https://i.imgur.com/IGUkg3G.png" align="right" width="350dp"></td>
   </tr>
  </table>
- 
+ ---
 ## Clean Architecture
 <p>
 <img src="https://miro.medium.com/v2/resize:fit:1112/0*zUtZYiJ1bDTugOYY"></img>
