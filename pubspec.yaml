@@ -1,0 +1,27 @@
+name: products_application
+description: 'A new Flutter project.'
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  fpdart: ^1.1.1
+  http: ^1.2.2
+  get_it: ^8.0.3
+  flutter_bloc: ^8.1.6
+  provider: ^6.1.2
+  go_router: ^14.6.2
+  sqflite: ^2.4.1
+  path: ^1.9.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
