@@ -11,8 +11,8 @@ A Flutter mobile app that allows users to view a list of products and add produc
 - [sqflite](https://pub.dev/packages/sqflite)
 - [path](https://pub.dev/packages/path)
 
----
-# Screenshots
+
+## Screenshots
 <table>
   <tr>
     <td>Home Feature</td>
@@ -25,7 +25,8 @@ A Flutter mobile app that allows users to view a list of products and add produc
     <td valign="top"><img src="https://i.imgur.com/IGUkg3G.png" align="right" width="350dp"></td>
   </tr>
  </table>
- ---
+
+
 ## Clean Architecture
 <p>
 <img src="https://miro.medium.com/v2/resize:fit:1112/0*zUtZYiJ1bDTugOYY"></img>
